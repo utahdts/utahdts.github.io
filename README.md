@@ -1,5 +1,11 @@
 # Repo Naming Best Practices
 
+## Repository security
+It is strongly suggested to make your repositories "private" instead of "internal". 
+Internal repositories are visible by anyone in the organziation. 
+You should create a team and give the team access to the private repository.
+Public repositories require approval. If you want a public repo, please contact us to get the process started.
+
 ## Creating a repository name
 
 - Should be lowercase
