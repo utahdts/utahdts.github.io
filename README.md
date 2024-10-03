@@ -2,14 +2,14 @@
 
 ## Repository security
 It is strongly suggested to make your repositories "private" instead of "internal". 
-Internal repositories are visible by anyone in the organziation. 
+Internal repositories are visible by anyone in the organization. 
 You should create a team and give the team access to the private repository.
 Public repositories require approval. If you want a public repo, please contact us to get the process started.
 
 ## Creating a repository name
 
 - Should be lowercase
-- Each fragment should be seperated with a dash
+- Each fragment should be separated with a dash
 - Should be at least 2 fragments (agency and project/team name)
 
 ### Contents and order of fragments
