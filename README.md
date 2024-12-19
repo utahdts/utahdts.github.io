@@ -1,18 +1,25 @@
-# Repo Naming Best Practices
+# Repo Best Practices
 
 ## Repository security
-It is strongly suggested to make your repositories "private" instead of "internal". 
+It is strongly suggested to make your repositories `private` instead of `internal`. 
+
 Internal repositories are visible by anyone in the organization. 
+
+### Teams
 You should create a team and give the team access to the private repository.
+
+### Can I make my repository public?
 Public repositories require approval. If you want a public repo, please contact us to get the process started.
 
-## Creating a repository name
+## Naming a repo
+
+### Creating a repository name
 
 - Should be lowercase
 - Each fragment should be separated with a dash
 - Should be at least 2 fragments (agency and project/team name)
 
-### Contents and order of fragments
+#### Contents and order of fragments
 
 1. Short code for agency or division [dgo, dts, dps, udot, etc.]
 2. Project or Team name
